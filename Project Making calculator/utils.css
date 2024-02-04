@@ -1,0 +1,56 @@
+.text-center{
+  text-align: center;
+ }
+ 
+ .bg-red{
+   background: red;
+ }
+
+ .mx-auto{
+  margin :auto;
+ }
+
+ /* .m-w-20{
+max-width: 30vw;
+ } */
+
+ .flex {
+display: flex;
+ }
+ 
+ .flex-col{
+flex-direction: column;
+ }
+
+ .item-center{
+  align-items: center;
+
+ }
+ .button-n{
+  background-color: rgb(170, 170, 20);
+  box-shadow: 0ex;
+ }
+
+ .button-num{
+  background-color: rgb(78, 76, 76);
+  border: none;
+ }
+
+ .button-num:hover{
+  background-color: rgb(158, 151, 151);
+ }
+
+ .button-n:hover{
+  background-color: rgb(145, 145, 23);
+ }
+ 
+ .button-n1{
+  background-color:  rgb(109, 109, 6);
+  /* align-items: center; */
+  border: none;
+    
+  
+ }
+ .button-n1:hover{
+  background-color: rgb(145, 145, 23); ;
+ }
